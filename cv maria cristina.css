@@ -1,0 +1,169 @@
+
+ header {
+ 	font-family: ´Montserrat´, sans-serif;
+ 	text-align: center;		
+
+ }
+
+ h1 {
+ 	font-size: 18px;
+	display: inline;
+	margin: 10px;		
+}
+ 
+
+
+.foto {
+	width: 300px;
+	margin: 0 auto;
+	position: center;
+	display: flex;
+	justify-content:space-between;
+
+}
+
+
+ body {
+	background: linear-gradient(#CD5C5C, #F8F8FF);
+	font-family: ´Montserrat´, sans-serif;
+}
+
+
+.contato {
+	display: inline-block;
+	text-align: left;
+
+}
+
+.contato img {
+	width: 20px;
+
+}
+
+.section a {
+	cursor: pointer;
+  transition: 0.8ms all;
+  display: inline-block;
+  width: 100px;
+  height: 20%;
+
+ 
+    
+}
+
+
+
+.mesa {
+	width: 370px;
+	float: left;
+	margin: 0 10px 20px 0;
+	opacity: 1;
+	box-shadow: 10px 10px 10px 0 #000000;
+}
+
+.principal {
+	text-align: center;
+	font-size: 18px;
+	margin: 0 10 20;
+	clear: left;
+	padding: 2px;
+			
+}
+
+.Educação h3 {
+	width: 10%;
+	margin: 50 0 10px;
+	padding: 15px 0 ;
+	background: #000000;
+	color: white;
+	font-weight: bold;
+	font-size: 18px
+	border: none;
+	transition: 1s all;
+	border-radius: 10px;
+	cursor: pointer;	
+}
+
+
+.Educação p {
+	text-align: left;
+	margin: 0 10 20;
+	clear: left;
+	padding: 2px;
+	border-radius: 10px;
+	border: none;	
+}
+
+.certificados {
+	text-align: left;
+	width: 10%;
+	margin: 25 0 5px;
+	padding: 5px 0 ;
+	background: #000000;
+	color: white;
+	font-weight: bold;
+	font-size: 18px
+	border: none;
+	transition: 1s all;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.experiencias h4 {
+	width: 10%;
+	margin: 50 0 10px;
+	padding: 15px 0 ;
+	background: #000000;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	border: none;
+	transition: 1s all;
+	border-radius: 10px;
+	cursor: pointer;	
+}
+
+.experiencias p {
+	text-align: left;
+	margin: 0 10 20;
+}
+
+.habilidades img {
+	width: 10%;
+  	opacity: 10;
+	box-shadow: 10px 10px 10px 0 #000000;
+
+}
+
+.interesses img{
+	width: 10%;
+  	opacity: 10;
+	box-shadow: 10px 10px 10px 0 #000000;
+}
+.interesses h6 {
+	text-align: center;
+	font-size: 22px;
+}
+
+footer{
+	background: linear-gradient(#CD5C5C, #F8F8FF);
+	padding: 20px 0;
+	
+	
+		
+}
+
+
+footer a {
+	font-size: 18px;
+	font-family: ´Montserrat´, sans-serif;
+}
+
+
+nav  {
+	display:inline-block;
+	width: 100%;
+	font-family: ´Montserrat´, sans-serif;
+	
+}
+
