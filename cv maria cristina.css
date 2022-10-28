@@ -47,7 +47,6 @@
   width: 100px;
   height: 20%;
 
- 
     
 }
 
@@ -149,9 +148,10 @@ footer{
 	background: linear-gradient(#CD5C5C, #F8F8FF);
 	padding: 20px 0;
 	
+}
 	
 		
-}
+
 
 
 footer a {
@@ -163,7 +163,6 @@ footer a {
 nav  {
 	display:inline-block;
 	width: 100%;
-	font-family: ´Montserrat´, sans-serif;
-	
+	font-family: ´Montserrat´, sans-serif;	
 }
 
